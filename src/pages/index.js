@@ -11,7 +11,7 @@ const IndexPage = () => (
       <h1>Hi people</h1>
       <p>Welcome to your new Gatsby site.</p>
       <div>
-        <a href="https://api.whatsapp.com/send?phone=6289647322312&text=urlencodedtext">a</a>
+       <button> <a href="https://api.whatsapp.com/send?phone=6289647322312&text=urlencodedtext">Button WA</a> </button>
       </div>
       <p>Now go build something great.</p>
       <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
